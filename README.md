@@ -13,7 +13,6 @@ This project analyzes electric vehicle (EV) sales data across Indian states usin
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Statsmodels (Holt-Winters Forecasting)
-- Git & GitHub
 
 ## Key Insights
 - EV adoption has increased rapidly in recent years.
