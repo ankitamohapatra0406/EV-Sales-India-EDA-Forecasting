@@ -8,7 +8,7 @@ This project analyzes electric vehicle (EV) sales data across Indian states usin
 - Identify top-performing states and EV categories
 - Forecast future EV sales using time-series models
 
-## Tools & Technologies
+## Tools & Technologies 
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
