@@ -2,7 +2,7 @@
  
 ## Project Overview 
 This project analyzes electric vehicle (EV) sales data across Indian states using Exploratory Data Analysis (EDA) and forecasting techniques.
-
+ 
 ## Objectives
 - Analyze EV sales trends across states and years
 - Identify top-performing states and EV categories
