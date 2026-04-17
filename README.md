@@ -9,7 +9,7 @@ This project analyzes electric vehicle (EV) sales data across Indian states usin
 - Forecast future EV sales using time-series models
 
 ## Tools & Technologies 
-- Python
+- Python 
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Statsmodels (Holt-Winters Forecasting)
